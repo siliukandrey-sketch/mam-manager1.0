@@ -1,0 +1,1446 @@
+[
+  {
+    "house": "Белградская 1",
+    "query": "1 Белградская",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=1%20%D0%91%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F",
+    "response": [
+      {
+        "place_id": 172457692,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 770379437,
+        "lat": "53.8717026",
+        "lon": "27.5434785",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Пекін",
+        "display_name": "Пекін, 1, Бялградская вуліца, Мінск-Свет, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "building": "Пекін",
+          "house_number": "1",
+          "road": "Бялградская вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8713946",
+          "53.8722431",
+          "27.5433400",
+          "27.5445382"
+        ]
+      },
+      {
+        "place_id": 172141537,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13314128297,
+        "lat": "53.8721964",
+        "lon": "27.5437452",
+        "category": "amenity",
+        "type": "post_office",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "amenity",
+        "name": "Европочта",
+        "display_name": "Европочта, 1, Бялградская вуліца, Мінск-Свет, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "amenity": "Европочта",
+          "house_number": "1",
+          "road": "Бялградская вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8721464",
+          "53.8722464",
+          "27.5436952",
+          "27.5437952"
+        ]
+      },
+      {
+        "place_id": 172154138,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10707727372,
+        "lat": "53.8720667",
+        "lon": "27.5433864",
+        "category": "shop",
+        "type": "florist",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Цветочка.бел",
+        "display_name": "Цветочка.бел, 1, Бялградская вуліца, Мінск-Свет, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "shop": "Цветочка.бел",
+          "house_number": "1",
+          "road": "Бялградская вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8720167",
+          "53.8721167",
+          "27.5433364",
+          "27.5434364"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Белградская 8",
+    "query": "8 Белградская",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=8%20%D0%91%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F",
+    "response": [
+      {
+        "place_id": 172606882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 938003665,
+        "lat": "53.8692239",
+        "lon": "27.5415083",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Нур-Cултан",
+        "display_name": "Нур-Cултан, 8, Бялградская вуліца, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Нур-Cултан",
+          "house_number": "8",
+          "road": "Бялградская вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8690253",
+          "53.8694224",
+          "27.5413106",
+          "27.5417060"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Белградская 14",
+    "query": "14 Белградская",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=14%20%D0%91%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F",
+    "response": [
+      {
+        "place_id": 171508023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 870576784,
+        "lat": "53.8643252",
+        "lon": "27.5357546",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Таронта",
+        "display_name": "Таронта, 14, Бялградская вуліца, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220099, Беларусь",
+        "address": {
+          "building": "Таронта",
+          "house_number": "14",
+          "road": "Бялградская вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220099",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8641702",
+          "53.8644801",
+          "27.5355092",
+          "27.5359999"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Братская 17",
+    "query": "17 Братская",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=17%20%D0%91%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F",
+    "response": [
+      {
+        "place_id": 172355733,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 975140619,
+        "lat": "53.8622956",
+        "lon": "27.5464121",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Гаваі",
+        "display_name": "Гаваі, 17, Брацкая вуліца, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Гаваі",
+          "house_number": "17",
+          "road": "Брацкая вуліца",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8620861",
+          "53.8625049",
+          "27.5461904",
+          "27.5466338"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Жореса Алфёрова 5",
+    "query": "5 Жореса Алфёрова",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=5%20%D0%96%D0%BE%D1%80%D0%B5%D1%81%D0%B0%20%D0%90%D0%BB%D1%84%D1%91%D1%80%D0%BE%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 170861246,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1082796119,
+        "lat": "53.8637236",
+        "lon": "27.5541824",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Ліма",
+        "display_name": "Ліма, 5, вуліца Жарэса Алфёрава, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Ліма",
+          "house_number": "5",
+          "road": "вуліца Жарэса Алфёрава",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8635262",
+          "53.8639211",
+          "27.5539469",
+          "27.5544179"
+        ]
+      },
+      {
+        "place_id": 171126952,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13534254567,
+        "lat": "53.8638245",
+        "lon": "27.5541528",
+        "category": "shop",
+        "type": "furniture",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Айдан",
+        "display_name": "Айдан, 5, вуліца Жарэса Алфёрава, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "shop": "Айдан",
+          "house_number": "5",
+          "road": "вуліца Жарэса Алфёрава",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8637745",
+          "53.8638745",
+          "27.5541028",
+          "27.5542028"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Жореса Алфёрова 7",
+    "query": "7 Жореса Алфёрова",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=7%20%D0%96%D0%BE%D1%80%D0%B5%D1%81%D0%B0%20%D0%90%D0%BB%D1%84%D1%91%D1%80%D0%BE%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 172678722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1029674484,
+        "lat": "53.8619483",
+        "lon": "27.5525399",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Манчэстэр",
+        "display_name": "Манчэстэр, 7, вуліца Жарэса Алфёрава, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Манчэстэр",
+          "house_number": "7",
+          "road": "вуліца Жарэса Алфёрава",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8617452",
+          "53.8621476",
+          "27.5523763",
+          "27.5527025"
+        ]
+      },
+      {
+        "place_id": 172569427,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12484141071,
+        "lat": "53.8621037",
+        "lon": "27.5526245",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "amenity",
+        "name": "Вкусный Кебаб",
+        "display_name": "Вкусный Кебаб, 7, вуліца Жарэса Алфёрава, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "amenity": "Вкусный Кебаб",
+          "house_number": "7",
+          "road": "вуліца Жарэса Алфёрава",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8620537",
+          "53.8621537",
+          "27.5525745",
+          "27.5526745"
+        ]
+      },
+      {
+        "place_id": 172824322,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13424543686,
+        "lat": "53.8620836",
+        "lon": "27.5524698",
+        "category": "shop",
+        "type": "convenience",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Cвежесть дня",
+        "display_name": "Cвежесть дня, 7, вуліца Жарэса Алфёрава, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "shop": "Cвежесть дня",
+          "house_number": "7",
+          "road": "вуліца Жарэса Алфёрава",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8620336",
+          "53.8621336",
+          "27.5524198",
+          "27.5525198"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Леонида Левина 1",
+    "query": "1 Леонида Левина",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=1%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%B0%20%D0%9B%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0",
+    "response": [
+      {
+        "place_id": 172188062,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1005765120,
+        "lat": "53.8691340",
+        "lon": "27.5349744",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Цэнтральны Парк",
+        "display_name": "Цэнтральны Парк, 1, вуліца Леаніда Левіна, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "building": "Цэнтральны Парк",
+          "house_number": "1",
+          "road": "вуліца Леаніда Левіна",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8690737",
+          "53.8692398",
+          "27.5346848",
+          "27.5352647"
+        ]
+      },
+      {
+        "place_id": 172755473,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12169672997,
+        "lat": "53.8691113",
+        "lon": "27.5347563",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "amenity",
+        "name": "Alt speciality.coffee",
+        "display_name": "Alt speciality.coffee, 1, вуліца Леаніда Левіна, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "amenity": "Alt speciality.coffee",
+          "house_number": "1",
+          "road": "вуліца Леаніда Левіна",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8690613",
+          "53.8691613",
+          "27.5347063",
+          "27.5348063"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Леонида Левина 7",
+    "query": "7 Леонида Левина",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=7%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%B0%20%D0%9B%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0",
+    "response": [
+      {
+        "place_id": 172117069,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1005765118,
+        "lat": "53.8686278",
+        "lon": "27.5342662",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Голден-Гейт Парк",
+        "display_name": "Голден-Гейт Парк, 7, вуліца Леаніда Левіна, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "building": "Голден-Гейт Парк",
+          "house_number": "7",
+          "road": "вуліца Леаніда Левіна",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8684080",
+          "53.8687846",
+          "27.5339700",
+          "27.5344976"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 11",
+    "query": "11 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=11%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 172444629,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 789628907,
+        "lat": "53.8675517",
+        "lon": "27.5425524",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Прага",
+        "display_name": "Прага, 11, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Прага",
+          "house_number": "11",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8673998",
+          "53.8677764",
+          "27.5423331",
+          "27.5428203"
+        ]
+      },
+      {
+        "place_id": 171121376,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12070379292,
+        "lat": "53.8675085",
+        "lon": "27.5426867",
+        "category": "amenity",
+        "type": "vending_machine",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "amenity",
+        "name": "",
+        "display_name": "11, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "house_number": "11",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8674585",
+          "53.8675585",
+          "27.5426367",
+          "27.5427367"
+        ]
+      },
+      {
+        "place_id": 420017172,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13912905394,
+        "lat": "53.8674362",
+        "lon": "27.5425830",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "amenity",
+        "name": "Библиотека Пива",
+        "display_name": "Библиотека Пива, 11, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "amenity": "Библиотека Пива",
+          "house_number": "11",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8673862",
+          "53.8674862",
+          "27.5425330",
+          "27.5426330"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 13",
+    "query": "13 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=13%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 172103729,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 789628908,
+        "lat": "53.8672168",
+        "lon": "27.5433649",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Варшава",
+        "display_name": "Варшава, 13, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Варшава",
+          "house_number": "13",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8670703",
+          "53.8674472",
+          "27.5431431",
+          "27.5436433"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 25",
+    "query": "25 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=25%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 173609473,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1029674481,
+        "lat": "53.8635739",
+        "lon": "27.5520510",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Сантарыні",
+        "display_name": "Сантарыні, 25, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Сантарыні",
+          "house_number": "25",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8634909",
+          "53.8637750",
+          "27.5515014",
+          "27.5523481"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 28",
+    "query": "28 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=28%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 172803058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1043447783,
+        "lat": "53.8616952",
+        "lon": "27.5532661",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Мюнхен",
+        "display_name": "Мюнхен, 28, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Мюнхен",
+          "house_number": "28",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8614282",
+          "53.8617991",
+          "27.5530806",
+          "27.5534169"
+        ]
+      },
+      {
+        "place_id": 172821177,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13424543685,
+        "lat": "53.8617323",
+        "lon": "27.5532007",
+        "category": "shop",
+        "type": "outpost",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Wildberries",
+        "display_name": "Wildberries, 28, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "shop": "Wildberries",
+          "house_number": "28",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8616823",
+          "53.8617823",
+          "27.5531507",
+          "27.5532507"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 30",
+    "query": "30 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=30%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 172161966,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1066718839,
+        "lat": "53.8609430",
+        "lon": "27.5543013",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Венецыя",
+        "display_name": "Венецыя, 30, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Венецыя",
+          "house_number": "30",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8608389",
+          "53.8612145",
+          "27.5541424",
+          "27.5544785"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Игоря Лученка 32",
+    "query": "32 Игоря Лученка",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=32%20%D0%98%D0%B3%D0%BE%D1%80%D1%8F%20%D0%9B%D1%83%D1%87%D0%B5%D0%BD%D0%BA%D0%B0",
+    "response": [
+      {
+        "place_id": 171497845,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1072238959,
+        "lat": "53.8607934",
+        "lon": "27.5553735",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Берлін",
+        "display_name": "Берлін, 32, вуліца Ігара Лучанка, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Берлін",
+          "house_number": "32",
+          "road": "вуліца Ігара Лучанка",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8606048",
+          "53.8609821",
+          "27.5552023",
+          "27.5555448"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Михаила Савицкого 12",
+    "query": "12 Михаила Савицкого",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=12%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE",
+    "response": [
+      {
+        "place_id": 172035185,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1005863060,
+        "lat": "53.8673507",
+        "lon": "27.5307494",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Куала-Лумпур",
+        "display_name": "Куала-Лумпур, 12, вуліца Міхаіла Савіцкага, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "building": "Куала-Лумпур",
+          "house_number": "12",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8669839",
+          "53.8677053",
+          "27.5301419",
+          "27.5309257"
+        ]
+      },
+      {
+        "place_id": 170172029,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12185697307,
+        "lat": "53.8671821",
+        "lon": "27.5307474",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Miss faye",
+        "display_name": "Miss faye, 12, вуліца Міхаіла Савіцкага, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "shop": "Miss faye",
+          "house_number": "12",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8671321",
+          "53.8672321",
+          "27.5306974",
+          "27.5307974"
+        ]
+      },
+      {
+        "place_id": 170206616,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11491714660,
+        "lat": "53.8674838",
+        "lon": "27.5306063",
+        "category": "shop",
+        "type": "hairdresser",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Headliner",
+        "display_name": "Headliner, 12, вуліца Міхаіла Савіцкага, Мінск-Свет, Курасоўшчына, Кастрычніцкі раён, Мінск, 220039, Беларусь",
+        "address": {
+          "shop": "Headliner",
+          "house_number": "12",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220039",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8674338",
+          "53.8675338",
+          "27.5305563",
+          "27.5306563"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Михаила Савицкого 23",
+    "query": "23 Михаила Савицкого",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=23%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE",
+    "response": [
+      {
+        "place_id": 171549955,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1206481164,
+        "lat": "53.8650199",
+        "lon": "27.5399649",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Даламіці Бэлунэзі",
+        "display_name": "Даламіці Бэлунэзі, 23, вуліца Міхаіла Савіцкага, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Даламіці Бэлунэзі",
+          "house_number": "23",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8648061",
+          "53.8652338",
+          "27.5395207",
+          "27.5404094"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Михаила Савицкого 35",
+    "query": "35 Михаила Савицкого",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=35%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE",
+    "response": [
+      {
+        "place_id": 172024548,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1072238956,
+        "lat": "53.8604597",
+        "lon": "27.5537672",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Парыж",
+        "display_name": "Парыж, 35, вуліца Міхаіла Савіцкага, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Парыж",
+          "house_number": "35",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8603568",
+          "53.8607324",
+          "27.5536083",
+          "27.5539447"
+        ]
+      },
+      {
+        "place_id": 417785974,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13822377402,
+        "lat": "53.8603857",
+        "lon": "27.5536627",
+        "category": "office",
+        "type": "coworking",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "office",
+        "name": "Бьюти-коворкинг",
+        "display_name": "Бьюти-коворкинг, 35, вуліца Міхаіла Савіцкага, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "office": "Бьюти-коворкинг",
+          "house_number": "35",
+          "road": "вуліца Міхаіла Савіцкага",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8603357",
+          "53.8604357",
+          "27.5536127",
+          "27.5537127"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Щемелёва 10",
+    "query": "10 Щемелёва",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=10%20%D0%A9%D0%B5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 172177306,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1073928192,
+        "lat": "53.8649925",
+        "lon": "27.5573386",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Сан-Паўлу",
+        "display_name": "Сан-Паўлу, 10, вуліца Леаніда Шчамялёва, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Сан-Паўлу",
+          "house_number": "10",
+          "road": "вуліца Леаніда Шчамялёва",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8647988",
+          "53.8651860",
+          "27.5571456",
+          "27.5575316"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Щемелёва 16",
+    "query": "16 Щемелёва",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=16%20%D0%A9%D0%B5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 170171206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1165986912,
+        "lat": "53.8621520",
+        "lon": "27.5562883",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Панама-Сіці",
+        "display_name": "Панама-Сіці, 16, вуліца Леаніда Шчамялёва, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Панама-Сіці",
+          "house_number": "16",
+          "road": "вуліца Леаніда Шчамялёва",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8620222",
+          "53.8622802",
+          "27.5560092",
+          "27.5568493"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Щемелёва 18",
+    "query": "18 Щемелёва",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=18%20%D0%A9%D0%B5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 171143618,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1072238960,
+        "lat": "53.8602526",
+        "lon": "27.5561562",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Амстэрдам",
+        "display_name": "Амстэрдам, 18, вуліца Леаніда Шчамялёва, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Амстэрдам",
+          "house_number": "18",
+          "road": "вуліца Леаніда Шчамялёва",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8600547",
+          "53.8604480",
+          "27.5560079",
+          "27.5563045"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Щемелёва 26",
+    "query": "26 Щемелёва",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=26%20%D0%A9%D0%B5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%D0%B0",
+    "response": [
+      {
+        "place_id": 172226384,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1143710329,
+        "lat": "53.8597197",
+        "lon": "27.5558782",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Мадрыд",
+        "display_name": "Мадрыд, 26, вуліца Леаніда Шчамялёва, Мінск-Свет, Сярова, Кастрычніцкі раён, Мінск, 220065, Беларусь",
+        "address": {
+          "building": "Мадрыд",
+          "house_number": "26",
+          "road": "вуліца Леаніда Шчамялёва",
+          "suburb": "Мінск-Свет",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220065",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8595218",
+          "53.8599151",
+          "27.5557299",
+          "27.5560265"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Кальварийская 16",
+    "query": "16 Кальварийская",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=16%20%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F",
+    "response": [
+      {
+        "place_id": 172021957,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 89457130,
+        "lat": "53.9068200",
+        "lon": "27.5325336",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 0.1679799034751623,
+        "addresstype": "building",
+        "name": "Парус",
+        "display_name": "Парус, 16, Кальварыйская вуліца, Фрунзенскі раён, Мінск, 220004, Беларусь",
+        "address": {
+          "building": "Парус",
+          "house_number": "16",
+          "road": "Кальварыйская вуліца",
+          "city_district": "Фрунзенскі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220004",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.9064377",
+          "53.9072140",
+          "27.5319341",
+          "27.5327277"
+        ]
+      },
+      {
+        "place_id": 171773535,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9233275067,
+        "lat": "53.9068791",
+        "lon": "27.5325154",
+        "category": "shop",
+        "type": "erotic",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Inme.by",
+        "display_name": "Inme.by, 16, Кальварыйская вуліца, Фрунзенскі раён, Мінск, 220004, Беларусь",
+        "address": {
+          "shop": "Inme.by",
+          "house_number": "16",
+          "road": "Кальварыйская вуліца",
+          "city_district": "Фрунзенскі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220004",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.9068291",
+          "53.9069291",
+          "27.5324654",
+          "27.5325654"
+        ]
+      },
+      {
+        "place_id": 171850662,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4126500789,
+        "lat": "53.9068153",
+        "lon": "27.5323728",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "LadyNail",
+        "display_name": "LadyNail, 16, Кальварыйская вуліца, Фрунзенскі раён, Мінск, 220004, Беларусь",
+        "address": {
+          "shop": "LadyNail",
+          "house_number": "16",
+          "road": "Кальварыйская вуліца",
+          "city_district": "Фрунзенскі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220004",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.9067653",
+          "53.9068653",
+          "27.5323228",
+          "27.5324228"
+        ]
+      }
+    ]
+  },
+  {
+    "house": "Кижеватова 3А",
+    "query": "Кижеватова 3А",
+    "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=by&city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&street=%D0%9A%D0%B8%D0%B6%D0%B5%D0%B2%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%203%D0%90",
+    "response": [
+      {
+        "place_id": 172238274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 714764090,
+        "lat": "53.8650611",
+        "lon": "27.5314766",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "building",
+        "name": "Квэбэк",
+        "display_name": "Квэбэк, 3А, вуліца Лейтэнанта Кіжаватава, Курасоўшчына, Кастрычніцкі раён, Мінск, 220099, Беларусь",
+        "address": {
+          "building": "Квэбэк",
+          "house_number": "3А",
+          "road": "вуліца Лейтэнанта Кіжаватава",
+          "suburb": "Курасоўшчына",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220099",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8649115",
+          "53.8652107",
+          "27.5311662",
+          "27.5317871"
+        ]
+      },
+      {
+        "place_id": 171601421,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11030535321,
+        "lat": "53.8649757",
+        "lon": "27.5315379",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "STOCKгольм",
+        "display_name": "STOCKгольм, 3А, вуліца Лейтэнанта Кіжаватава, Курасоўшчына, Кастрычніцкі раён, Мінск, 220099, Беларусь",
+        "address": {
+          "shop": "STOCKгольм",
+          "house_number": "3А",
+          "road": "вуліца Лейтэнанта Кіжаватава",
+          "suburb": "Курасоўшчына",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220099",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8649257",
+          "53.8650257",
+          "27.5314879",
+          "27.5315879"
+        ]
+      },
+      {
+        "place_id": 171979646,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13375547867,
+        "lat": "53.8650682",
+        "lon": "27.5313034",
+        "category": "shop",
+        "type": "outpost",
+        "place_rank": 30,
+        "importance": 0.00007699473563740013,
+        "addresstype": "shop",
+        "name": "Wildberries",
+        "display_name": "Wildberries, 3А, вуліца Лейтэнанта Кіжаватава, Курасоўшчына, Кастрычніцкі раён, Мінск, 220099, Беларусь",
+        "address": {
+          "shop": "Wildberries",
+          "house_number": "3А",
+          "road": "вуліца Лейтэнанта Кіжаватава",
+          "suburb": "Курасоўшчына",
+          "city_district": "Кастрычніцкі раён",
+          "city": "Мінск",
+          "ISO3166-2-lvl4": "BY-HM",
+          "postcode": "220099",
+          "country": "Беларусь",
+          "country_code": "by"
+        },
+        "boundingbox": [
+          "53.8650182",
+          "53.8651182",
+          "27.5312534",
+          "27.5313534"
+        ]
+      }
+    ]
+  }
+]
